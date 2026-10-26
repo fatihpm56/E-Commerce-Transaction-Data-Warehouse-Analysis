@@ -3,7 +3,9 @@
 This project builds a simple ELT pipeline and a star-schema data warehouse from e-commerce transaction data using **PostgreSQL**, then uses it to answer business questions about transaction performance and customer behavior.
 
 **Tools:** PostgreSQL (SQL), drawSQL (ERD), GitHub
+
 **Dataset:** [ecommerce_transaction.sql](https://github.com/ikhsannur1996/store-procedure-assignment/blob/main/ecommerce_transaction.sql)
+
 **Data period:** January 1, 2025 – March 28, 2025
 
 ---
